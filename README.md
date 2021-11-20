@@ -1,11 +1,16 @@
 # Minecraft Script to Tellraw Datapack Generator
 by CCpcalvin
 
+## Note by CCpcalvin
+
+Note that it is my first project and it is the final project of CS50 in edX. I know that the syntax is quite difficult and I try to make it as simple as possible. Also, the coding is not elegant as well. I may try to make it cleaner if I have time. Feel free to download it and even help me to improve the coding since I am still a beginner in coding.
+
 ---
 
 ## Table of Contents
 
 - [Minecraft Script to Tellraw Datapack Generator](#minecraft-script-to-tellraw-datapack-generator)
+  - [Note by CCpcalvin](#note-by-ccpcalvin)
   - [Table of Contents](#table-of-contents)
   - [What is this generator do?](#what-is-this-generator-do)
   - [Quickstart](#quickstart)
