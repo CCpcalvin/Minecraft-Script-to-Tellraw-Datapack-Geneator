@@ -1,0 +1,6 @@
+DELIMITER = "\"
+REPLACE = "yes"
+DEFAULT_NAMESPACE = "scene_1"
+
+tell(c=red, b)=" Ryan " 
+tell(c=green, u)=" Even "
